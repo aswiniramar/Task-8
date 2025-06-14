@@ -1,0 +1,6 @@
+Sales Insights - Superstore Dashboard
+
+1. The highest monthly sales occurred in November and December, showing strong year-end performance.
+2. The West region generated the highest overall sales, followed by East and Central.
+3. The Technology category contributed the most to total sales, followed by Furniture and Office Supplies.
+4. Sales showed an upward trend in the second half of the year, indicating a seasonal boost.
